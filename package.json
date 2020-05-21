@@ -1,16 +1,14 @@
 {
-    "title": "Cobalt2",
-    "name": "Cobalt2",
-    "description": "Cobalt2-brackets)",
+    "name": "cobalt-two",
+    "title": "Cobalt 2",
+    "description": "Cobalt two Theme for brackets",
     "version": "1.0.0",
-    "author": "CRY-D (https://github.com/CRY-D)",
+    "author": "CRY-D (https://github.com/CRY-D) <twitter@cryptoDOGE3>",
     "homepage": "https://github.com/CRY-D/Cobalt2-bracketsc",
     "license": "MIT",
-    "engines": {
-        "brackets": ">=0.42.0"
-    },
     "theme": {
         "file": "cobalt2.css",
         "dark": true
-    }
+    },
+    "keywords": ["theme","cobalt", "dark"]
 }
